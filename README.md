@@ -1,3 +1,3 @@
 # posts_app
 
-Atividade técnica para vaga de estagio Mobile na Esig Software
+Atividade técnica para vaga de estágio Mobile na Esig Software
